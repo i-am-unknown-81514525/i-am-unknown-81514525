@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi, I am a hobblist programmer which participate in some project with my friends and also created a small open source package for python
+![Metrics](https://metrics.lecoq.io/i-am-unknown-81514525?template=classic&lines=1&calendar=1&code=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&calendar=false&calendar.limit=1&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&config.timezone=Europe%2FLondon)
 
 <!--
 **i-am-unknown-81514525/i-am-unknown-81514525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
