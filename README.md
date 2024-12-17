@@ -1,4 +1,4 @@
-Hi, I am a hobblist programmer which participate in some project with my friends and also created a small open source package for python
+Hi, I am a hobbyist programmer which participate in some project with my friends and I also created a small open source package for python
 
 
 ![Metrics](https://github.com/i-am-unknown-81514525/i-am-unknown-81514525/blob/main/github-metrics.svg)
