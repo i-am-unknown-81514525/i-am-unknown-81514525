@@ -42,8 +42,8 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage, lines
-          plugin_languages_indepth: true
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_indepth_custom: i-am-unknown-81514525/school
+          # plugin_languages_details: bytes-size, percentage, lines
+          # plugin_languages_indepth: true
+          # plugin_languages_analysis_timeout: 60
+          # plugin_languages_indepth_custom: i-am-unknown-81514525/school
           
